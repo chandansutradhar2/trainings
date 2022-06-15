@@ -41,3 +41,8 @@ function dbConnect() {
 function insertToDB() {
   //insertion logic here.
 }
+
+
+function initiateETL(){
+    
+}
